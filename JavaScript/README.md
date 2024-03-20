@@ -2,9 +2,6 @@
 
 <img src="/assets/js.jpg">
 
-In this part we are going to make tasks based in JavaScript.
-All the progress will be uploded in this folder
-
 ## Installation
 
 Before you start, you need to globally install create-js-project via npm or yarn:

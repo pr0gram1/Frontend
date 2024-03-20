@@ -8,11 +8,7 @@ This repository will only store Frontend work. Its purpose is educational and fo
 
 # Technologies
 
-JavaScript
-TypeScript
-HTML, CSS, SASS, LESS
-Angular Framework
-Open Source Libraries
+JavaScript, TypeScript, HTML, CSS, SASS, LESS, Angular Framework, Open Source Libraries
 
 # Requirements
 

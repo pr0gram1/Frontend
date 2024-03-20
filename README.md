@@ -4,7 +4,7 @@
 
 # About repository
 
-This repository will only store Frontend work. Its puropse is educational and for research.
+This repository will only store Frontend work. Its purpose is educational and for research.
 
 # Technologies
 

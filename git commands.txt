@@ -1,0 +1,19 @@
+git pull - pull latest changes on branch
+
+git add - add a change in the working dir to the staging area
+
+git commit -m - commit the message on the PR
+
+git checkout branch - navigate to the other branch to edit it
+
+git checkout newbranch - if the branch doesnt exist it will create a new one
+
+git fetch - download commits, files and references from a remote repo in your local repo
+
+git clone - command for cloning a specific repo to use it
+
+git stauts - gives current info about the branch
+
+git revert - undo the previous changes
+
+git merge - the final stage of mergeing branch to the other branch

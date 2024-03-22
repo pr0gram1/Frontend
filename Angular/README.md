@@ -44,4 +44,5 @@ cd my-app
 ng serve (--open) or npm start
 
 ```
+
 The --open (or just -o) option automatically opens your browser to http://localhost:4200/.

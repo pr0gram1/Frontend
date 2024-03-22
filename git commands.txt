@@ -6,7 +6,9 @@ git commit -m - commit the message on the PR
 
 git checkout branch - navigate to the other branch to edit it
 
-git checkout newbranch - if the branch doesnt exist it will create a new one
+git branch branchName - if the branch doesnt exist it will create a new one
+
+git push -u origin branchName - publish branch
 
 git fetch - download commits, files and references from a remote repo in your local repo
 
